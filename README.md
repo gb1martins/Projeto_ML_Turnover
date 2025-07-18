@@ -76,5 +76,5 @@ O projeto consolidou o aprendizado em ciência de dados com aplicação prática
 ---
 
 ## 📁 Estrutura do Projeto
-Arquivo "Trabalho_Final_Jupyter_V3.ipynb"
+Arquivo "turnover_model.ipynb"
 
